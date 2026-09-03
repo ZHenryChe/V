@@ -7,13 +7,17 @@
 ---
 <img width="250" height="139" alt="image" src="https://github.com/user-attachments/assets/eeebffd3-a4db-48e6-8dc9-bffcea0fd6b1" />   <img width="250" height="139" alt="image" src="https://github.com/user-attachments/assets/07250c35-5736-47da-bb11-a79cbd138838" />   <img width="250" height="139" alt="image" src="https://github.com/user-attachments/assets/b1d29032-415a-4020-b1e9-fe56d9ba13af" />
 
-
-
 ## What is this
 
-**V** is a short narrative game built in **2 weeks** for **Doki Jam!**, an online game jam — blending simple runner-style mechanics with visual, decision-driven storytelling. You move, you're asked questions, you press buttons, the story bends around your answers.
+> "Hello, hello, bonjour! Welcome to V!"
 
-It started as a 3AM idea. It shipped as a playable prototype. That's the whole story arc, honestly, and it's a decent one.
+This game is my first — a fruit of my modest programming background, the remnants of the artist in me, and an invitation I happened to see for Doki Jam.
+
+I'll be honest: this game is rough. Not in difficulty, not just around the corners, nor in the "diamond in the rough" sense — it started off as an attempt to recreate the offline dino game, then shifted gears halfway through into becoming a raw, rare visual novel. The storyline, if any, is a mixture of 3AM ideas I had while playing Strinova and my own personal experience.
+
+It's short, wacky, and unpolished, but I had fun making it. Thanks to Doki Jam's organizers for the push I needed to actually create something.
+
+**Mechanically:** it blends simple runner-style movement with visual, decision-driven storytelling — you move, you're asked questions, you press buttons, the story bends around your answers.
 
 ## Features
 
